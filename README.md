@@ -26,7 +26,7 @@ L’objectif est de piéger, enregistrer et analyser des comportements suspects 
 
 ---
 
-## 📡 Honeypot MQTT – Mosquitto
+## Honeypot MQTT – Mosquitto
 
 **Fonctionnalités principales :**
 
