@@ -7,11 +7,12 @@ L’objectif est de piéger, enregistrer et analyser des comportements suspects 
 
 ## 📁 Structure du projet
 
-
+```bash
 ├── mosquitto/ # Honeypot MQTT basé sur Mosquitto
 ├── SSH # Honeypot SSH interactif basé sur Cowrie
 ├── HTTP/ # Honeypot HTTP (documentation à compléter)
 └── README.md # Ce fichier
+```
 
 ## 🔐 Honeypot SSH – Cowrie
 
