@@ -10,7 +10,6 @@ L’objectif est de piéger, enregistrer et analyser des comportements suspects 
 ```bash
 ├── mosquitto/ # Honeypot MQTT basé sur Mosquitto
 ├── SSH # Honeypot SSH interactif basé sur Cowrie
-├── HTTP/ # Honeypot HTTP (documentation à compléter)
 └── README.md # Ce fichier
 ```
 
@@ -70,4 +69,4 @@ Cloner le dépôt :
 
 - Visualiser le comportement d’attaquants automatisés ou humains
 
-- Renforcer ses connaissances sur les protocoles réseau : SSH, MQTT, HTTP
+- Renforcer ses connaissances sur les protocoles réseau : SSH, MQTT
