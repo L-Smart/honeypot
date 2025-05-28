@@ -1,4 +1,4 @@
-# 🐝 Projet Honeypots IoT & Réseaux
+# 🐝 Projet de recherche sur les honeypot
 
 Ce projet vise à déployer plusieurs honeypots simulant des services typiques dans les environnements IoT et réseau.  
 L’objectif est de piéger, enregistrer et analyser des comportements suspects ou malveillants dans un environnement contrôlé et sans risque pour le système hôte.
@@ -68,3 +68,12 @@ Cloner le dépôt :
    git clone https://github.com/ethjoe-lsmart/honeypot.git
    cd honeypot
    ```
+
+🎯 Objectifs pédagogiques
+- Comprendre le rôle et l’intérêt des honeypots dans une stratégie de cybersécurité
+
+- Expérimenter la détection d’intrusions dans un environnement contrôlé
+
+- Visualiser le comportement d’attaquants automatisés ou humains
+
+- Renforcer ses connaissances sur les protocoles réseau : SSH, MQTT, HTTP
