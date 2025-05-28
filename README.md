@@ -5,7 +5,7 @@ L’objectif est de piéger, enregistrer et analyser des comportements suspects 
 
 ---
 
-## 📁 Structure du projet
+## Structure du projet
 
 ```bash
 ├── mosquitto/ # Honeypot MQTT basé sur Mosquitto
@@ -13,7 +13,7 @@ L’objectif est de piéger, enregistrer et analyser des comportements suspects 
 └── README.md # Ce fichier
 ```
 
-## 🔐 Honeypot SSH – Cowrie
+## Honeypot SSH – Cowrie
 
 **Fonctionnalités principales :**
 
@@ -22,7 +22,7 @@ L’objectif est de piéger, enregistrer et analyser des comportements suspects 
 - Aucun accès réel au système (tout est simulé)
 - Configuration fine (hostname, utilisateurs, port, système de fichiers factice, etc.)
 
-📂 Documentation complète dans : `./SSH/`
+ Documentation complète dans : `./SSH/`
 
 ---
 
@@ -38,12 +38,12 @@ L’objectif est de piéger, enregistrer et analyser des comportements suspects 
   - espionnage (écoute des topics)
 - Dashboard en temps réel avec Streamlit pour visualiser les événements
 
-📂 Documentation complète dans : `./mosquitto/`
+ Documentation complète dans : `./mosquitto/`
 
 ---
 
 
-## ⚙️ Prérequis généraux
+##  Prérequis généraux
 
 - VM ou machine Linux
 - Python **≥ 3.8**
@@ -54,7 +54,7 @@ L’objectif est de piéger, enregistrer et analyser des comportements suspects 
 
 ---
 
-## 🚀 Lancement rapide
+## Lancement rapide
 
 Cloner le dépôt :
    ```bash
@@ -62,7 +62,7 @@ Cloner le dépôt :
    cd honeypot
    ```
 
-🎯 Objectifs pédagogiques
+ Objectifs pédagogiques
 - Comprendre le rôle et l’intérêt des honeypots dans une stratégie de cybersécurité
 
 - Expérimenter la détection d’intrusions dans un environnement contrôlé
