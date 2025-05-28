@@ -43,12 +43,6 @@ L’objectif est de piéger, enregistrer et analyser des comportements suspects 
 
 ---
 
-## 🌐 Honeypot HTTP – (À compléter)
-
-
-📂 Documentation prévue dans : `./HTTP/`
-
----
 
 ## ⚙️ Prérequis généraux
 
@@ -58,7 +52,6 @@ L’objectif est de piéger, enregistrer et analyser des comportements suspects 
 - Ports à vérifier selon les services :
   - SSH : `2222` ou autre
   - MQTT : `1883`
-  - HTTP : `à compléter` 
 
 ---
 
