@@ -1,0 +1,14 @@
+[
+  {
+    "script": "devices/fake_door_sensor.py",
+    "enabled": true
+  },
+  {
+    "script": "devices/fake_temp_device.py",
+    "enabled": true
+  },
+  {
+    "script": "devices/fake_switch.py",
+    "enabled": false
+  }
+]
